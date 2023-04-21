@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/donate-platform/static/css/main.ab21046f.css",
+    "main.js": "/donate-platform/static/js/main.8903a60b.js",
+    "index.html": "/donate-platform/index.html",
+    "main.ab21046f.css.map": "/donate-platform/static/css/main.ab21046f.css.map",
+    "main.8903a60b.js.map": "/donate-platform/static/js/main.8903a60b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab21046f.css",
+    "static/js/main.8903a60b.js"
+  ]
+}
